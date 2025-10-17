@@ -1,0 +1,20 @@
+# Guia Turístico — Dourados-MS (HTML5/CSS3/ES2020)
+
+Atualizações:
+- Conteúdo adaptado para Dourados-MS.
+- Fotos com licença livre (Wikimedia Commons) integradas (hero e cards).
+- Página **Créditos** adicionada com atribuições.
+- Responsividade mobile testada (sem quebra lateral; header/toolbar/footer com wrap).
+
+## Fontes (endereços/info)
+- Praça Antônio João (centro e monumentos): TripAdvisor; Projeto Dourados em Patrimônio; Moovit.  
+- Parque Antenor Martins: TripAdvisor (Av. José Roberto Teixeira) e Dourados em Patrimônio (fundado em 1985).  
+- Parque Rego d’Água (Primo Fioravante): Mypacer e publicações locais.  
+- Feira Central João Totó Câmara: Douranews (Rua Cafelândia, Jardim São Pedro).
+
+## Licenças de imagens
+- **Hero** — Imagem aérea de Dourados — Bruno Ferreira Campos — CC BY-SA 4.0 — Wikimedia Commons.
+- **Praça Antônio João** — Cmasi — CC BY-SA 4.0 — Wikimedia Commons.
+- **Parque (genérico de Dourados)** — Goldemberg Fonseca de Almeida — CC BY-SA 3.0 — Wikimedia Commons.
+> Substitua assim que tiver fotos próprias das atrações (Antenor Martins, Rego d’Água, Catedral, Feira, Museu) para 100% de correspondência visual.
+
